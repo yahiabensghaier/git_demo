@@ -1,1 +1,3 @@
 french
+english 
+japani
